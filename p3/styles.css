@@ -1,0 +1,315 @@
+body {
+    font-size:  16px;
+    font-family: 'Open Sans', sans-serif;
+    /*line-height: 1.8;*/
+    color: white;
+}
+p {font-size: 16px;}
+.margin {margin-bottom: 22px;}
+.bg-1 {
+
+    background-color: black; /* Green */
+    color: white;
+}
+.bg-2 {
+    background-color: black; /* Dark Blue */
+    color: #black;
+}
+.bg-3 {
+    background-color: black; /* White */
+    color: white;
+
+}
+.bg-4 {
+    background-color: black; /* Black Gray */
+    color: #fff;
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    margin-left: -778px;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+.moneytxtBasic{
+  color: black;
+  position: absolute;
+  z-index: 100;
+  font-size: 22px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+  /*text-shadow: 3px 3px 9px black;*/
+}
+.moneyTtl{
+font-size: 20px;
+font-family: 'Open Sans', sans-serif;
+line-height: 1.8em;
+color: white;
+
+}
+.moneytxt{
+  color: black;
+  margin-top: 42%;
+  width: 800px;
+  left: 36%;
+  margin-left: -365px;
+  font-family: 'Open Sans', sans-serif;
+  /*text-shadow: 3px 3px 9px black;*/
+}
+.moneytxt2{
+  color: black;
+  margin-top: 48%;
+  width: 600px;
+  left: 63%;
+  margin-left: -270px;
+  font-family: 'Open Sans', sans-serif;
+  /*text-shadow: 3px 3px 9px black;*/
+}
+.moneytxt3{
+  color: black;
+  margin-top: 47%;
+  width: 600px;
+  left: 38%;
+  margin-left: -150px;
+  font-family: 'Open Sans', sans-serif;
+  /*text-shadow: 3px 3px 9px black;*/
+}
+.moneytxt4{
+  color: black;
+  margin-top: 40%;
+  width: 600px;
+  left: 102%;
+  margin-left: -500px;
+  font-family: 'Open Sans', sans-serif;
+  /*text-shadow: 3px 3px 9px black;*/
+}
+.moneytxt5{
+  color: white;
+  margin-top: 3%;
+  width: 600px;
+  left: 35%;
+  margin-left: -35px;
+  font-family: 'Open Sans', sans-serif;
+  /* text-shadow: 3px 3px 9px white; */
+}
+.moneytxt6{
+  color: white;
+  margin-top: 8%;
+  width: 600px;
+  left: 57%;
+  margin-left: -612px;
+  font-family: 'Open Sans', sans-serif;
+  /* text-shadow: 3px 3px 9px white; */
+}
+.moneytxt7{
+  color: white;
+  margin-top: 8%;
+  width: 600px;
+  left: 79%;
+  margin-left: -612px;
+  font-family: 'Open Sans', sans-serif;
+  /* text-shadow: 3px 3px 9px white; */
+}
+.moneytxt8{
+  color: white;
+  margin-top: 8%;
+  width: 600px;
+  left: 100%;
+  margin-left: -612px;
+  font-family: 'Open Sans', sans-serif;
+  /* text-shadow: 3px 3px 9px white; */
+}
+.moneytxt9{
+  color: black;
+  margin-top: 46%;
+  width: 600px;
+  left: 100%;
+  margin-left: -612px;
+  ffont-family: 'Open Sans', sans-serif;
+  font-weight: 20px;
+  /*text-shadow: 3px 3px 9px black;*/
+}
+  .moneytxt10{
+    color: black;
+    margin-top: 37%;
+    width: 600px;
+    left: 100%;
+    margin-left: -580px;
+    font-family: 'Open Sans', sans-serif;
+    /*text-shadow: 3px 3px 9px black;*/
+}
+  .moneytxt11{
+    color: black;
+    margin-top: 40%;
+    width: 600px;
+    left: 30%;
+    margin-left: -612px;
+    font-family: 'Open Sans', sans-serif;
+    /*text-shadow: 3px 3px 9px black;*/
+  }
+  .moneytxt12{
+    color: black;
+    margin-top: 47%;
+    width: 600px;
+    left: 30%;
+    margin-left: -612px;
+    font-family: 'Open Sans', sans-serif;
+    /*text-shadow: 3px 3px 9px black;*/
+  }
+  .moneytxt13{
+    color: black;
+    margin-top: 33%;
+    width: 600px;
+    left: 30%;
+    margin-left: -612px;
+    font-family: 'Open Sans', sans-serif;
+    /*text-shadow: 3px 3px 9px black;*/
+  }
+  .moneytxt14{
+    color: black;
+    margin-top: 31%;
+    width: 600px;
+    left: 46%;
+    margin-left: -612px;
+    font-family: 'Open Sans', sans-serif;
+    /*text-shadow: 3px 3px 9px black;*/
+  }
+  .moneytxt15{
+    color: black;
+    margin-top: 39%;
+    width: 600px;
+    left: 69%;
+    margin-left: -612px;
+    font-family: 'Open Sans', sans-serif;
+    /*text-shadow: 3px 3px 9px black;*/
+  }
+  .moneytxt16{
+    color: black;
+    margin-top: 30%;
+    width: 600px;
+    left: 100%;
+    margin-left: -612px;
+    font-family: 'Open Sans', sans-serif;
+    /*text-shadow: 3px 3px 9px black;*/
+  }
+  .moneytxt17{
+    color: black;
+    margin-top: 32%;
+    width: 600px;
+    left: 75%;
+    margin-left: -612px;
+    font-family: 'Open Sans', sans-serif;
+    /*text-shadow: 3px 3px 9px black;*/
+  }
+  .moneytxt18{
+    color: black;
+    margin-top: 32%;
+    width: 600px;
+    left: 62%;
+    margin-left: -612px;
+    font-family: 'Open Sans', sans-serif;
+    /*text-shadow: 3px 3px 9px black;*/
+  }
+  .moneytxt19{
+    color: black;
+    margin-top: 46%;
+    width: 600px;
+    left: 45%;
+    margin-left: -612px;
+    font-family: 'Open Sans', sans-serif;
+    /*text-shadow: 3px 3px 9px black;*/
+  }
+  .moneytxt20{
+    color: black;
+    margin-top: 38%;
+    width: 600px;
+    left: 45%;
+    margin-left: -612px;
+    font-family: 'Open Sans', sans-serif;
+    /*text-shadow: 3px 3px 9px black;*/
+  }
+  .moneytxt21{
+    color: black;
+    margin-top: 38%;
+    width: 600px;
+    left: 45%;
+    margin-left: 80px;
+    font-family: 'Open Sans', sans-serif;
+    /*text-shadow: 3px 3px 9px black;*/
+  }
+  .moneytxt22{
+    color: black;
+    margin-top: 46%;
+    width: 600px;
+    left: 45%;
+    margin-left: 500px;
+    font-family: 'Open Sans', sans-serif;
+    /*text-shadow: 3px 3px 9px black;*/
+  }
+  .moneytxt23{
+    color: black;
+    margin-top: 35%;
+    width: 600px;
+    left: 45%;
+    margin-left: 600px;
+    font-family: 'Open Sans', sans-serif;
+    /*text-shadow: 3px 3px 9px black;*/
+  }
+
+ .button{
+   background-color: green; /* Green */
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 24px;
+   margin: 4px 2px;
+   cursor: pointer;
+   margin-top: 80px;
+
+ }
+
+  .bg-jack{
+
+  background: black;
+  }
+
+
+#eyesM{
+  width: 70%;
+  margin-top: -200px;
+  margin-bottom: 10px;
+  height: 410px;
+  
+}
+#ill{
+  width: 80%;
+  height: 240px;
+  margin-top: -100px;
+  margin-bottom: -73px;
+  margin-left: -45px;
+
+}
+#jackp{
+  width: 30%;
+  height: auto;
+  filter: invert(100%);
+}
+#rankb{
+  height: auto;
+  width: 200%;
+  margin-left: 58%;
+
+}
